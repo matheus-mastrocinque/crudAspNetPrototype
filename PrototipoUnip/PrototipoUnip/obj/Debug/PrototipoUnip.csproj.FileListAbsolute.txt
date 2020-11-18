@@ -79,7 +79,6 @@ C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\bin\pt-br\System.Web.Razo
 C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\obj\Debug\PrototipoUnip.csprojAssemblyReference.cache
 C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\obj\Debug\PrototipoUnip.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\obj\Debug\PrototipoUnip.csproj.CopyComplete
 C:\Users\Dell\source\repos\PrototipoUnip\PrototipoUnip\obj\Debug\PrototipoUnip.dll
